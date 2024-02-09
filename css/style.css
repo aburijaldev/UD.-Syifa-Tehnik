@@ -543,8 +543,8 @@ footer .credit p {
     flex-wrap: wrap;
   }
   .artikel .row .artikel1 img {
-    max-width: 400px;
-    max-height: 350px;
+    max-width: 375px;
+    max-height: 325px;
   }
 }
 /* Tablet */
@@ -623,8 +623,8 @@ footer .credit p {
     width: 50px;
   }
   .artikel .row .artikel1 img {
-    max-width: 375px;
-    max-height: 325px;
+    max-width: 350px;
+    max-height: 300px;
   }
 }
 /* Mobile Phone */
@@ -637,7 +637,7 @@ footer .credit p {
     max-height: 300px;
   }
   .artikel .row .artikel1 img {
-    max-width: 325px;
-    max-height: 275px;
+    max-width: 300px;
+    max-height: 250px;
   }
 }
