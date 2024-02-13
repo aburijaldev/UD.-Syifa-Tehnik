@@ -79,6 +79,10 @@ body {
 .navbar2 .navbar-nav a:hover::after {
   transform: scaleX(0.5);
 }
+.navbar2 .navbar-extra img {
+  height: 60px;
+  width: 60px;
+}
 .navbar2 .navbar-extra a:hover {
   color: var(--primary);
 }
